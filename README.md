@@ -13,7 +13,13 @@ Depuis le 27 septembre 2022, je suis la formation __Développeur web et web mobi
 |   Angular          |      Symfony      |
 |   CMS              |                   |
 |   Java             |                   |
+***
 
+Figma
+
+Trello
+
+Discord
 
 ## Mes expériences & projets
 
