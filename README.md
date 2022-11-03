@@ -1,5 +1,3 @@
-Bonjour, bienvenue ! 
-
 #Priscilla Delpierre
 ![Photo de mon profil LinkedIn] (https://media-exp1.licdn.com/dms/image/D4E03AQFc44Ym7sNJqA/profile-displayphoto-shrink_800_800/0/1665670992677?e=1672876800&v=beta&t=c2KuQ7hzkDvXwy91eGpuiQsq31bh3DIwxxTRz1jFJZQ)
 
