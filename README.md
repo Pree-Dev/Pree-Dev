@@ -15,7 +15,7 @@ Depuis le 27 septembre 2022, je suis la formation __Développeur web et web mobi
 |   Java             |                   |
 
 ***
-<p style= "color :blue">
+<p style= "color:blue">
 
 Figma
 
