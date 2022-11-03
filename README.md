@@ -1,8 +1,12 @@
 ### Priscilla Delpierre
 
+***
+
 ## Ma formation 
 
 Depuis le 27 septembre 2022, je suis la formation __Développeur web et web mobile__ de HumanBooster, à Lyon. 
+
+***
 
 ## Mes compétences
 
@@ -15,18 +19,18 @@ Depuis le 27 septembre 2022, je suis la formation __Développeur web et web mobi
 |   Java             |                   |
 
 ***
-<p style= "color:blue">
 
 Figma
 
 Trello
 
 Discord 
-</p>
+
+*** 
 
 ## Mes expériences & projets
 
-
+***
 
 ## Mes centres d'intérêt
 
@@ -34,3 +38,4 @@ Discord
 * *jeux de société*
 * *randonnée*
 
+***
