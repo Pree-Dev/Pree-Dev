@@ -1,15 +1,23 @@
-# Priscilla Delpierre
-
-![](https://media-exp1.licdn.com/dms/image/D4E03AQFc44Ym7sNJqA/profile-displayphoto-shrink_800_800/0/1665670992677?e=1672876800&v=beta&t=c2KuQ7hzkDvXwy91eGpuiQsq31bh3DIwxxTRz1jFJZQ)
-
+### Priscilla Delpierre
 
 ## Ma formation 
 
-Depuis le 27 septembre 2022, je suis la formation Développeur web et web mobile de HumanBooster, à Lyon. 
+Depuis le 27 septembre 2022, je suis la formation __Développeur web et web mobile__ de HumanBooster, à Lyon. 
 
 ## Mes compétences
 
+|   Front End        |  |    Back End     |
+|--------------------|--|-----------------|
+|   HTML, CSS        |  |    SQL          |
+|   Javascript       |  |    PHP          |
+|   Angular          |  |    Symfony      |
+|   CMS              |  |                 |
+|   Java             |  |                 |
+
+
 ## Mes expériences & projets
+
+
 
 ## Mes centres d'intérêt
 
