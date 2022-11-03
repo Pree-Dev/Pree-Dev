@@ -21,6 +21,6 @@ Depuis le 27 septembre 2022, je suis la formation __Développeur web et web mobi
 
 ## Mes centres d'intérêt
 
-* généalogie
-* jeux de société 
-* randonnée
+* *généalogie*
+* *jeux de société*
+* *randonnée*
