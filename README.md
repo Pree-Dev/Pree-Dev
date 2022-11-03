@@ -6,13 +6,13 @@ Depuis le 27 septembre 2022, je suis la formation __Développeur web et web mobi
 
 ## Mes compétences
 
-|   Front End        |  |    Back End     |
-|--------------------|--|-----------------|
-|   HTML, CSS        |  |    SQL          |
-|   Javascript       |  |    PHP          |
-|   Angular          |  |    Symfony      |
-|   CMS              |  |                 |
-|   Java             |  |                 |
+|   Front End        |      Back End     |
+|--------------------|-------------------|
+|   HTML, CSS        |      SQL          |
+|   Javascript       |      PHP          |
+|   Angular          |      Symfony      |
+|   CMS              |                   |
+|   Java             |                   |
 
 
 ## Mes expériences & projets
