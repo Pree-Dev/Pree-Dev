@@ -5,7 +5,7 @@
 Depuis le 27 septembre 2022, je suis la formation __Développeur web et web mobile__ de HumanBooster, à Lyon. 
 
 ## Mes compétences
-<font color="lightblue">
+
 |   Front End        |      Back End     |
 |--------------------|-------------------|
 |   HTML, CSS        |      SQL          |
@@ -13,14 +13,14 @@ Depuis le 27 septembre 2022, je suis la formation __Développeur web et web mobi
 |   Angular          |      Symfony      |
 |   CMS              |                   |
 |   Java             |                   |
-</font>
-***
 
+***
+<font color="lightblue">
 Figma
 
 Trello
 
-Discord
+Discord </font>
 
 ## Mes expériences & projets
 
