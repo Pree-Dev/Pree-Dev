@@ -15,12 +15,14 @@ Depuis le 27 septembre 2022, je suis la formation __Développeur web et web mobi
 |   Java             |                   |
 
 ***
-<font color="lightblue">
+<font color="blue">
+
 Figma
 
 Trello
 
-Discord </font>
+Discord 
+</font>
 
 ## Mes expériences & projets
 
